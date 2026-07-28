@@ -1,6 +1,6 @@
 # Librería Online (CLI)
 
-Sistema de gestión y venta de libros en consola (CLI) desarrollado en **Python** con persistencia de datos en **JSON** y arquitectura modular. Este proyecto fue implementado para la asignatura *Fundamentos de los Sistemas de Información*.
+Sistema de gestión y venta de libros en consola (CLI) desarrollado en **Python** con persistencia de datos en **JSON** y arquitectura modular.
 
 ---
 
