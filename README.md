@@ -81,3 +81,13 @@ libreria_online/
    Los registros posteriores se asignarán con el rol estándar de **Cliente**.
 3. **Persistencia:**  
    Los archivos `.json` dentro de la carpeta `datos/` se crearán automáticamente al realizar las primeras operaciones.
+
+---
+
+## Autor y Créditos
+
+**Cecil Quimey Azuara Yáñez**
+
+- **Carrera:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial (LIDIA).
+- **Institución:** Universidad de Guanajuato – División de Ingenierías (Campus Irapuato - Salamanca).
+- **Asignatura:** Fundamentos de los Sistemas de Información.
